@@ -1,0 +1,35 @@
+body {
+    font-family: Arial, sans-serif;
+    background: #eef4ff;
+    text-align: center;
+    padding-top: 100px;
+}
+
+.container {
+    background: white;
+    max-width: 350px;
+    margin: auto;
+    padding: 25px;
+    border-radius: 15px;
+}
+
+h1 {
+    color: #174ea6;
+}
+
+h2 {
+    font-size: 50px;
+}
+
+button {
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    background: #174ea6;
+    color: white;
+    cursor: pointer;
+}
+
+#resetBtn {
+    background: gray;
+}
